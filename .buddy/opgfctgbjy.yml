@@ -1,0 +1,4 @@
+- pipeline: opgfctgbjy
+  refs:
+  - refs/heads/master
+  on: CLICK
